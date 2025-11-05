@@ -1,0 +1,9 @@
+﻿group_name,description,owner,scope
+ALL-Employees,All active employees,SVC-IAM,Org
+IT-Helpdesk,Help desk technicians,SVC-IAM,Department
+IT-Admins,Privileged IT admins,SVC-IAM,Department
+FIN-Staff,Finance staff,SVC-IAM,Department
+HR-Staff,HR staff,SVC-IAM,Department
+Sales-Staff,Sales team,SVC-IAM,Department
+Sales-Engineers,Sales engineers,SVC-IAM,Department
+Leavers,Disabled or terminated users,SVC-IAM,Org

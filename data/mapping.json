@@ -1,0 +1,15 @@
+﻿{
+  "department_to_groups": {
+    "IT": ["ALL-Employees"],
+    "Finance": ["ALL-Employees", "FIN-Staff"],
+    "HR": ["ALL-Employees", "HR-Staff"],
+    "Sales": ["ALL-Employees", "Sales-Staff"]
+  },
+  "title_to_groups": {
+    "Help Desk Tech": ["IT-Helpdesk"],
+    "SysAdmin": ["IT-Admins"],
+    "Sales Rep": ["Sales-Staff"],
+    "Sales Engineer": ["Sales-Engineers"]
+  },
+  "termination_groups": ["Leavers"]
+}

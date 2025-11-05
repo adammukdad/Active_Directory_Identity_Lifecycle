@@ -1,0 +1,8 @@
+﻿user_id,username,first_name,last_name,email,department,title,manager,location,status,start_date,change_date,end_date,groups
+1001,jsantos,Julia,Santos,julia.santos@example.local,IT,Help Desk Tech,snguyen,NYC,Active,2025-01-08,,, "IT-Helpdesk;ALL-Employees"
+1002,dmills,David,Mills,david.mills@example.local,Finance,Accountant,lkhan,NYC,Active,2025-01-08,,, "FIN-Staff;ALL-Employees"
+1003,aroy,Aisha,Roy,aisha.roy@example.local,HR,HR Generalist,mbrown,Remote,Active,2025-01-08,,, "HR-Staff;ALL-Employees"
+1004,ttan,Tony,Tan,tony.tan@example.local,IT,SysAdmin,snguyen,NYC,Active,2025-01-08,,, "IT-Admins;ALL-Employees"
+1005,kmorgan,Kate,Morgan,kate.morgan@example.local,Sales,Sales Rep,rpatel,Remote,Active,2025-01-08,,, "Sales-Staff;ALL-Employees"
+1005,kmorgan,Kate,Morgan,kate.morgan@example.local,Sales,Sales Engineer,rpatel,Remote,Active,2025-02-15,2025-02-15,, "Sales-Engineers;ALL-Employees"
+1002,dmills,David,Mills,david.mills@example.local,Finance,Accountant,lkhan,NYC,Terminated,2025-01-08,,2025-03-01,

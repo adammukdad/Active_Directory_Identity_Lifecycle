@@ -1,0 +1,22 @@
+# Identity Lifecycle Diagram (text version)
+
+[HIRE] --> [PROVISION ACCOUNT] --> [ASSIGN GROUPS] --> [ACTIVE USER]
+                     |
+                     v
+             [ROLE CHANGE / DEPARTMENT MOVE]
+                     |
+                     v
+        [UPDATE GROUP MEMBERSHIP + ATTRIBUTES]
+                     |
+                     v
+           [TERMINATION / SEPARATION EVENT]
+                     |
+                     v
+           [DISABLE ACCOUNT] --> [REMOVE GROUPS] --> [ARCHIVE USER]
+
+Legend:
+- HIRE: New employee onboarding (create account, add to default groups)
+- ROLE CHANGE: Job title or department change (update groups)
+- TERMINATION: Employment ends (move to "Leavers" group, disable)
+- DATA SOURCES: users.csv, groups.csv, mapping.json
+- Next Step: simulate lifecycle transitions via scripts/simulate_lifecycle.py
