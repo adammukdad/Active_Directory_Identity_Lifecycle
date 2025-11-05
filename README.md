@@ -1,4 +1,4 @@
-# 🧩 Active Directory & Identity Lifecycle  
+# 🧩 Active Directory & Identity Lifecycle Automation  
 **Automated IAM lifecycle simulation using Python + Microsoft Graph**
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)]()
@@ -10,8 +10,6 @@
 
 > Vendor-neutral IAM lifecycle simulation demonstrating automated user provisioning, group management, and termination flows using mock datasets integrated with Microsoft Graph APIs.
 
-# 🧩 Project Title  
-**Active Directory & Identity Lifecycle Automation**  
 > **Completion Date:** 2025-11-04  
 
 ---
