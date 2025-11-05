@@ -60,6 +60,18 @@ This project bridges **Active Directory fundamentals** with **Azure Entra ID (Mi
 
 ---
 
+## 📸 Demonstration Screenshots
+
+Below are three key stages from the project execution:
+
+| Step | Description | Screenshot |
+|------|--------------|-------------|
+| 1️⃣ | Lifecycle simulation output (Python script verifying user events) | ![Lifecycle Simulation](docs/screenshots/lifecycle_simulation.png) |
+| 2️⃣ | Directory structure showing all assets generated | ![Repo Structure](docs/screenshots/repo_tree.png) |
+| 3️⃣ | Microsoft Graph connection and Entra ID context established | ![Entra ID Context](docs/screenshots/entra_context.png) |
+
+---
+
 ## ✍️ Author  
 **Adam Mukdad**  
 📍 Chicago, IL  
